@@ -1,0 +1,13 @@
+package com.portfolio.maxiperez;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MaxiperezApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MaxiperezApplication.class, args);
+	}
+
+}
